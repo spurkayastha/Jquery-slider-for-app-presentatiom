@@ -1,0 +1,31 @@
+/* custom.css */
+
+body {background-image: url(http://hdwallpapersfit.com/wp-content/uploads/2015/04/dark-wood-backgrounds.jpg); margin: 0 auto; background-size:cover; size: 1024px;}
+
+
+.toggle {float:right; display: inline; margin-top:0px}
+
+button {color: beige; background-color: darkgreen;   padding: 15px 20px; display: inline; margin-bottom: 30px; border: pink; border-radius: 12px; }
+
+img {padding-left: 250px; padding-bottom: 50px; display: inline;size:200px;}
+
+
+.step {color: white; font-weight: 200; box-sizing: content-box;}
+
+h1{color: white; text-align: center; padding-bottom: 0px; font-size:50px; margin-top: 10px; margin-bottom: 10px; font-family: "Pacifico"; font-weight: 200;}
+
+.buttons-numbered {display: inline; margin-top: 40px;}
+
+#greenline {color: darkgreen; font-weight: 200;}
+
+.step {
+    position: relative;}
+
+#footer {color: white; background-color: darkgreen; text-align: center; display: block; padding: 7px; border-radius: 12px; width: 100%;}
+
+p {font-family: sans-serif; font-size: 22px; color: white;}
+    
+#sources {color: white; background-color: darkgreen;}
+    
+#wrapper { height:1200px;}
+
